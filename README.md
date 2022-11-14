@@ -2,12 +2,16 @@
 A Restaurant Recommender System to recommend restaurants 
 
 <b>Dataset information:</b>
-<ul>
-<li>The data is taken from the official [yelp](https://www.yelp.com/dataset/download) website.</li>
-<li>There are 5 json files obtained after the downloaded .tar file is extracted.</li>
-<li>The code json_to_csv.py needs to be executed to convert the json files to csv format.</li>
-<li>To run the json_to_csv code, create a folder with the json_to_csv.py file and .json file</li>
-<li>Open the json_to_csv.py file and change the path to the folder path in line 92</li>
-<li>Open command prompt and type the following command python json_to_csv.py to convert the json file to csv</li>
-<li>Out of the 5 files, Checkin, Tip files were too big to process in a regular laptop so the files that are going to be used are business, reviews, users</li>
-</ul>
+The data is taken from the official [yelp](https://www.yelp.com/dataset/download) website.<br>
+There are 5 json files obtained after the downloaded .tar file is extracted.<br>
+We will however use only the following:
+<ol>
+  <li>business.json</li>
+  <li>reviews.json</li>
+  <li>users.json</li>
+</ol>
+These files are not uploaded here due to it's large size.<br>
+In case you want to run this code, download the dataset, extract the files and place the files in te data folder of the code base. Execute the [Recommender_System] (https://github.com/UmaTheDataScientist/Restaurant-Recommender-System/blob/main/Recommender_System.ipynb) file.<br>
+
+
+
