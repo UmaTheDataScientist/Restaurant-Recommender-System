@@ -11,7 +11,7 @@ We will however use only the following:
   <li>users.json</li>
 </ol>
 These files are not uploaded here due to it's large size.<br>
-In case you want to run this code, download the dataset, extract the files and place the files in te data folder of the code base. Execute the [Recommender_System] (https://github.com/UmaTheDataScientist/Restaurant-Recommender-System/blob/main/Recommender_System.ipynb) file.<br>
+In case you want to run this code, download the dataset, extract the files and place the files in te data folder of the code base and
 
 
-
+Execute the [Recommender_System.ipynb](https://github.com/UmaTheDataScientist/Restaurant-Recommender-System/blob/main/Recommender_System.ipynb) file.
