@@ -3,3 +3,5 @@ json_to_csv.py
 yelp_academic_dataset_business.csv
 *.json
 yelp_academic_dataset_business.csv
+data/output_csv/user.csv
+data/output_csv/review.csv
